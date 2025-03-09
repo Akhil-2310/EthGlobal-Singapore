@@ -56,3 +56,4 @@ For the gameplay design, we’ve incorporated game designs from many trending tr
 ## Telegram Mini App
 
 - To Access the Mini App please access @dynamic_eth_singapore_bot and run /start
+# Electroneum-Hack
